@@ -126,3 +126,19 @@
 12:33:10.943 [main] INFO  api.test.UserTests -*** successfully the Update request has done ***
 12:33:10.945 [main] INFO  api.test.UserTests -*** Delete request will start ***
 12:33:12.339 [main] INFO  api.test.UserTests -*** successfully the Delete request has done ***
+13:20:52.807 [main] INFO  api.test.UserTests_Properties -*** Post request will start ***
+13:20:56.084 [main] INFO  api.test.UserTests_Properties -*** successfully the Post request has done ***
+13:20:56.104 [main] INFO  api.test.UserTests_Properties -*** Get request will start ***
+13:20:57.541 [main] INFO  api.test.UserTests_Properties -*** successfully the Get request has done ***
+13:20:57.543 [main] INFO  api.test.UserTests_Properties -*** Update request will start ***
+13:20:58.936 [main] INFO  api.test.UserTests_Properties -*** successfully the Update request has done ***
+13:20:58.937 [main] INFO  api.test.UserTests_Properties -*** Delete request will start ***
+13:21:00.349 [main] INFO  api.test.UserTests_Properties -*** successfully the Delete request has done ***
+13:21:00.406 [main] INFO  api.test.UserTests -*** Post request will start ***
+13:21:01.833 [main] INFO  api.test.UserTests -*** successfully the Post request has done ***
+13:21:01.834 [main] INFO  api.test.UserTests -*** Get request will start ***
+13:21:03.267 [main] INFO  api.test.UserTests -*** successfully the Get request has done ***
+13:21:03.269 [main] INFO  api.test.UserTests -*** Update request will start ***
+13:21:04.708 [main] INFO  api.test.UserTests -*** successfully the Update request has done ***
+13:21:04.709 [main] INFO  api.test.UserTests -*** Delete request will start ***
+13:21:06.141 [main] INFO  api.test.UserTests -*** successfully the Delete request has done ***
